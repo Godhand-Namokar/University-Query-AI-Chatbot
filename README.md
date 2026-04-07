@@ -26,6 +26,22 @@ It provides personalized responses to students, parents, faculty, and admin user
 - Pandas
 
 ---
+## 📂 Project Structure
+University-Query-AI-Chatbot/
+│
+├── mainpro.py              # Main chatbot application
+├── requirements.txt       # Python dependencies
+├── .env.example           # Environment variables template
+├── poster.png             # Project poster
+├── README.md              # Project documentation
+│
+├── Databaseai.xlsx.xlsx   # User database (roles & phone numbers)
+├── BTech_Sem2_Timetable.xlsx   # Timetable data
+├── MITVPU_Holidays_Important_Dates.xlsx  # Holidays data
+│
+└── screenshots/           # Telegram bot screenshots (optional)
+    ├── bot1.png
+    └── bot2.png
 
 ## 📂 Project Files
 - `mainpro.py` → Main chatbot logic  
