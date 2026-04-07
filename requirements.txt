@@ -1,0 +1,9 @@
+python-telegram-bot
+pandas
+python-dotenv
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+transformers
+sentence-transformers
