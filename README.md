@@ -56,7 +56,7 @@ University-Query-AI-Chatbot/
 
 ---
 ## 📷 Demo (Telegram Bot)
-![Demo](screenshotsdemo.png)
+![Demo](screenshotsdemo.png.jpeg)
 
 ## ⚙️ How to Run
 ```bash
