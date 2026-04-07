@@ -56,7 +56,6 @@ University-Query-AI-Chatbot/
 
 ---
 ## 📷 Demo (Telegram Bot)
-
 ![Demo](screenshotsdemo.png)
 
 ## ⚙️ How to Run
